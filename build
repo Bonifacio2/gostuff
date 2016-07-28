@@ -9,4 +9,5 @@ while [ "$count" -lt 10 ]; do
 
     sleep 1
 done
-touch report.html
+echo huehuebr > report.html
+
